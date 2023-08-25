@@ -31,8 +31,7 @@ export default function Page() {
                 <br/> {'\u007D'}
 
 
-                <br/><br/>The <a href="https://vercel.com/docs/projects/project-configuration#redirect-object-definition">permanent property is optional</a>
-                so feel free to remove it or update it based on your needs! In this instance, it will be a permanent redirect with a 308 status code.
+                <br/><br/>The permanent property is optional so feel free to remove it or update it based on your needs! In this instance, it will be a permanent redirect with a 308 status code.
                 We’re sorry for any confusion you’ve faced as normally with using Next.js, you do not need to use vercel.json.
                 Please give that a go and let us know how it goes for you!<br/><br/>
 
