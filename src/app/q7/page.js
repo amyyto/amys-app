@@ -21,7 +21,7 @@ export default function Page() {
             was really hard but a good starting point to think that this could all be done within three hours. For the exercises, I loved going through
             the documentation and being a bit of a sleuth. The frustrated customer one could be taken up a notch or another upset customer, even possibly
             some sort of incident style. An upset customer due to some bug or issue and they want an RCA. Something a bit more where it would affect the
-            company or business. Overall, I had a fun time learning about Vercel and being able to walk away with what I’ve created <span role="img" aria-label="stars">✨✨.</span>
+            company or business. Overall, I had a fun time learning about Vercel and being able to walk away with what I’ve created <span role="img" aria-label="stars">✨✨. </span>
             Thanks so much for giving me the opportunity to get into the nitty gritty with the product.
                 </p>
         </div>
